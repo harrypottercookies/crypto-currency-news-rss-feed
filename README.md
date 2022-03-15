@@ -1,4 +1,4 @@
-Alt-H1 Cryptocurrency news rss feed
+# Cryptocurrency news rss feed
 
 Feel free to fork this repository and contribute to this list :slightly_smiling_face:
 
